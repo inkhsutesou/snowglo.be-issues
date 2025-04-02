@@ -1,6 +1,6 @@
 ---
-name: Custom issue template
-about: Describe this issue template's purpose here.
+name: General Template
+about: Cover all issues
 title: "[Bug|Feature Request|Question|Feedback|Idea] Short Description"
 labels: ''
 assignees: ''
